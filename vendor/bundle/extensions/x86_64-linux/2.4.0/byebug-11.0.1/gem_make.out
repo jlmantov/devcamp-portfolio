@@ -1,0 +1,19 @@
+current directory: /media/Dev/WS-Ruby/devcamp-tutorial/DevcampPortfolio/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/home/janick/.rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20190411-2631-15q2anx.rb extconf.rb
+creating Makefile
+
+current directory: /media/Dev/WS-Ruby/devcamp-tutorial/DevcampPortfolio/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /media/Dev/WS-Ruby/devcamp-tutorial/DevcampPortfolio/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /media/Dev/WS-Ruby/devcamp-tutorial/DevcampPortfolio/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20190411-2631-bksxz3/byebug

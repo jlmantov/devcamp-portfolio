@@ -1,0 +1,15 @@
+current directory: /media/Dev/WS-Ruby/devcamp-tutorial/DevcampPortfolio/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/home/janick/.rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20190411-2631-1b6jj90.rb extconf.rb
+creating Makefile
+
+current directory: /media/Dev/WS-Ruby/devcamp-tutorial/DevcampPortfolio/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /media/Dev/WS-Ruby/devcamp-tutorial/DevcampPortfolio/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /media/Dev/WS-Ruby/devcamp-tutorial/DevcampPortfolio/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20190411-2631-5zfbes
